@@ -1,6 +1,23 @@
-data_analyse.ipynb
-data_analyse_test.ipynb
+analysis_notebook/data_exploring.ipynb
 documentation/changelog.xlsx
 documentation/Business task statement.docx
+documentation/Analysis report.docx
 documentation/Description of data.docx
+documentation/Description of data.pdf
 data/
+data/divvy_202207-202306/csv/202207-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202208-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202209-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202210-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202211-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202212-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202301-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202302-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202303-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202304-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202305-divvy-tripdata.csv
+data/divvy_202207-202306/csv/202306-divvy-tripdata.csv
+文件中文版/任務計劃.docx
+文件中文版/更改日誌.xlsx
+文件中文版/分析報告.docx
+.ipynb_checkpoints/
